@@ -1,3 +1,16 @@
+/META.yml
+/MYMETA.json
+/MYMETA.yml
+/Makefile
+/actdocs/
+/blib/
+/conf/
+/httpd.conf
+/inc/
+/pm_to_blib
+/var/
+/wwwdocs/actdev/
+
 # vi/vim swap file
 *.swp
 *.swo
